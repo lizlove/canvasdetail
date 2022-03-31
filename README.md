@@ -1,0 +1,2 @@
+# jpdetailviewer
+View image details
