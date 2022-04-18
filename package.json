@@ -1,17 +1,14 @@
 {
-  "name": "jpdetailviewer",
+  "name": "@lizlove/canvasdetail",
   "version": "1.0.0",
   "description": "Image detail viewer with gamma and zoom regulation.",
-  "main": "main.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "contributors": [{
     "name" : "Liz Lovero",
     "email" : "elizabethlovero@gmail.com"
-  }, {
-    "name" : "Aaron Waters",
-    "email" : "awatters@simonsfoundation.org"
   }], 
   "license": "Apache-2.0"
 }
