@@ -1,6 +1,6 @@
-# Loupe
+# Loupe 🔎
 
-A simple, small magnification device used to see small image details more closely. 
+A simple, small magnification device used to see small details more closely. 
 
 ## Getting started
 
