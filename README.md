@@ -1,6 +1,6 @@
 # Loupe 🔎
 
-A simple, small magnification device used to see small details more closely. 
+Image detail viewer with gamma and zoom regulation. Named for a simple, small magnification device used to see details more closely.
 
 ## Getting started
 

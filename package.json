@@ -1,14 +1,33 @@
 {
-  "name": "@lizlove/canvasdetail",
+  "name": "@lizlove/loupe",
   "version": "1.0.0",
   "description": "Image detail viewer with gamma and zoom regulation.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "tsc",
+    "lint": "xo --fix",
+    "test": "jest --config jestconfig.json",
+    "start": "npm run build && npm run lint && npm run test"
   },
-  "contributors": [{
-    "name" : "Liz Lovero",
-    "email" : "elizabethlovero@gmail.com"
-  }], 
-  "license": "Apache-2.0"
+  "contributors": [
+    {
+      "name": "Liz Lovero",
+      "email": "elizabethlovero@gmail.com"
+    }
+  ],
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "@types/jest": "^27.4.1",
+    "jest": "^27.5.1",
+    "ts-jest": "^27.1.4",
+    "typescript": "^4.6.3",
+    "xo": "^0.48.0"
+  },
+  "xo": {
+    "ignore": [
+      "__tests__",
+      "__tbt__",
+      "node_modules/**"
+    ]
+  }
 }
