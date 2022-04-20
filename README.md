@@ -60,6 +60,7 @@ If `--database-from-env-prod` is specified, the DATABASE_PROD environment variab
 
 ### Notes:
 
-- [XO JS Linting](https://github.com/xojs/eslint-config-xo/blob/main/index.js)
-- [NPM Package with Typescript Setup](https://dev.to/siddharthshyniben/how-to-build-an-npm-package-using-typescript-jest-and-xo-40nd)
-- [Jest Docs](https://jestjs.io/docs/getting-started)
+- [xo linting](https://github.com/xojs/eslint-config-xo/blob/main/index.js)
+- [npm package setup](https://www.freecodecamp.org/news/how-to-make-a-beautiful-tiny-npm-package-and-publish-it-2881d4307f78/)
+- [npm package & linting with Typescript](https://dev.to/siddharthshyniben/how-to-build-an-npm-package-using-typescript-jest-and-xo-40nd)
+- [jest testing docs](https://jestjs.io/docs/getting-started)
