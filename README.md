@@ -58,7 +58,7 @@ If `--database-from-env-prod` is specified, the DATABASE_PROD environment variab
 - Inspired by [Aaron Waters'](https://github.com/AaronWatters) excellent, [jp_doodle](https://github.com/AaronWatters/jp_doodle) toolkit.
 
 
-### Notes:
+### References:
 
 - [xo linting](https://github.com/xojs/eslint-config-xo/blob/main/index.js)
 - [npm package setup](https://www.freecodecamp.org/news/how-to-make-a-beautiful-tiny-npm-package-and-publish-it-2881d4307f78/)
